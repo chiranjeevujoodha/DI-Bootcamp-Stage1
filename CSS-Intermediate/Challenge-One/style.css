@@ -1,0 +1,41 @@
+/* body {
+    background-color: #336699;
+} */
+
+#wrap {
+    background-color: #336699;
+    width: 90%;
+    margin: 0 auto;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+    height: 600px
+
+}
+
+
+
+#nav {
+    background-color: #9fbfdf;
+    text-align: center;
+    border: 1px red solid;
+    float: left;
+    width: 200px;
+    height: 500px;
+}
+
+#content {
+    background-color: #4080bf;
+    text-decoration: none;
+    /* position:relative;
+    left: 200px; */
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    border: 1px solid blue;
+}
+
+#content li {
+    list-style: none;
+}
