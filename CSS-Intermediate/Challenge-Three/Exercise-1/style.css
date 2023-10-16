@@ -1,0 +1,31 @@
+
+
+.row {
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 25px;
+    /* height: 20px; */
+}
+
+.red {
+    border: 2px solid black;
+    background-color: #ff80aa;
+    height: 100px;
+    width: 15%;
+}
+
+.blue {
+    border: 2px solid black;
+    background-color: #66b3ff;
+    height: 100px;
+    width: 75%;
+}
+
+.last-row {
+    border: 2px solid black;
+    height: 100px;
+    background-color: #ffffb3;
+    margin: 25px 25px;
+
+}

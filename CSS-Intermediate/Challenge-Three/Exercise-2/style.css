@@ -1,0 +1,35 @@
+
+
+.first-row {
+    border: 2px solid black;
+    height: 100px;
+    background-color: #b84dff;
+    margin: 25px 25px;
+
+}
+
+.container {
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 25px;
+    /* height: 20px; */
+}
+
+.column {
+    border: 2px solid black;
+    height: 400px;
+    width: 30%;
+}
+
+.column1 {
+    background-color:#e6005c ;
+}
+
+.column2 {
+    background-color: #00e673;
+}
+
+.column3 {
+    background-color: #ffa31a;
+}
