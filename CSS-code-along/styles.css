@@ -1,0 +1,39 @@
+body {
+    background-image: url(picture.jpg);
+    background-size: cover;
+}
+
+
+h2, p {
+    color: black;
+    text-align: center;
+    
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+p {
+    font-family: 'Poiret One', sans-serif;
+    font-size: 180%;
+}
+
+img {
+    float: left;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
+
+/* .webtext {
+    border-color: aquamarine;
+} */
+
+/* #div1 {
+    background-color: rgba(0, 0, 255, 0.2);
+} */

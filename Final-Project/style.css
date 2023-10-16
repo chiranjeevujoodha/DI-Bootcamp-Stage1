@@ -1,0 +1,72 @@
+
+body {
+    background-color:  #d1e0e0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.title {
+    text-align: center;
+    /* border: 1px red solid; */
+}
+
+#title-img {
+    /* border: 2px solid blue; */
+    text-align: center;
+     
+}
+
+img {
+    height: 500px;
+    
+
+}
+
+.description {
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    /* background-color: #c2d6d6; */
+    margin-top: 20px;
+    /* padding: 10px 10px; */
+    /* border: 1px red solid; */
+    font-size: 20px;
+}
+
+.cast-container {
+    /* border: 1px red solid; */
+    margin-top: 20px;
+    /* text-align: center; */
+    width: 75%;
+    margin: 20px auto;
+
+}
+
+.cast {
+    /* border: 2px solid blue; */
+    text-align: center;
+}
+
+h3, span {
+    display: inline;
+}
+
+.descr-cast {
+    text-align: center;
+    padding-top: 20px;
+    /* border: 1px solid blue; */
+}
+
+footer {
+    /* border: 1px solid red; */
+    margin-top: 50px;
+    text-align: center;
+}
+
+#facebook, #instagram, #wikipedia {
+    height: 30px;
+    padding-right: 20px;
+}
