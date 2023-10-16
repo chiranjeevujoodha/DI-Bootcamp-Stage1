@@ -20,7 +20,13 @@ body {
 img {
     height: 500px;
     
+}
 
+@media screen and (max-width: 600px) {
+    img {
+        height: 400px;
+        width: 500px
+    }
 }
 
 .description {
@@ -31,6 +37,7 @@ img {
     text-align: center;
     /* background-color: #c2d6d6; */
     margin-top: 20px;
+    margin-bottom: 20px;
     /* padding: 10px 10px; */
     /* border: 1px red solid; */
     font-size: 20px;
